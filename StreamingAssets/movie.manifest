@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 439310316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 755678fb2aed347db086c674679f13e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c6c8fc99ead083a5f8ccf318eab7a09
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/movie/noahfesOP.mov
+Dependencies: []
